@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Herzschlag spürbar
+
+This log tracks the cryptographic history and versioning for the song **Herzschlag spürbar** (herzschlag-spurbar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T21:56:31.587846 | `v1` | `838e5c581d8cb956ad6bbaea728289e74abd8909cd814a7fc7967cd372cebfba` | `0758f3235fab2b1b985c2d3e3697e02d35f07d8846bd4caf9c1e4a86ed5beb14` | `2026-06-30_herzschlag-spurbar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
