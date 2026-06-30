@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzschlag-spurbar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Herzschlag spürbar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzschlag-spurbar/) |
+| **Get License** | [Official Music Licensing for Herzschlag spürbar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzschlag-spurbar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, der Bass kickt tief, doch dein Herzschlag ist spürbar, ja
+> Zwischen Rauch und Neonlicht bist du für mich ein Star
+> Lass uns verschwinden, Baby, steig in das Coupé
+> Die Nacht gehört nur uns, wir sind on the way
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
